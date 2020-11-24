@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.24)  24 NOV 2020 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.24)  24 NOV 2020 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,14 +894,14 @@ AED: lastpage setting LastPage
 [1
 
 {/home/tester/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./rick-ma
-rtel-crop.jpg>] [2] (./resume-example.aux)
+rtel-crop.jpg>] (./resume-example.aux)
 Package rerunfilecheck Info: File `resume-example.out' has not changed.
 (rerunfilecheck)             Checksum: 11D146E2C55177091B0526FDA889A77C;1854.
  ) 
 Here is how much of TeX's memory you used:
- 24213 strings out of 481433
- 422305 string characters out of 5920288
- 726538 words of memory out of 5000000
+ 24212 strings out of 481433
+ 422299 string characters out of 5920288
+ 728538 words of memory out of 5000000
  40467 multiletter control sequences out of 15000+600000
  595457 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -919,10 +919,10 @@ mr8.pfb></home/tester/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home
 yTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb></home/tester/.TinyTeX/texmf-di
 st/fonts/type1/public/lm/lmssbx10.pfb></home/tester/.TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmtt9.pfb>
-Output written on resume-example.pdf (2 pages, 259934 bytes).
+Output written on resume-example.pdf (1 page, 259573 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
